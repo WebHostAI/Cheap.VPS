@@ -1,1 +1,1 @@
-# Cheapest.VPS
+# Cheap.VPS
